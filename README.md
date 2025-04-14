@@ -8,9 +8,9 @@
 - 📚 Constantly learning and exploring new technologies.
 
 ## 💼 Skills  
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS  
-- **Backend:** PHP, Laravel, RESTful APIs  
-- **Databases:** MySQL, MongoDB  
+- **Full Stack:** PHP, Laravel, MySQL, WordPress Development, WooCommerce, Shopify, API Integration, E-commerce Website Development, Full Stack Web Development, AI-Enhanced E-commerce Solutions, JavaScript, Vue.js, SQL, AI-Powered Recommendation Systems, E-commerce Chatbot Integration, RESTful APIs
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS    
+- **Databases:** MySQL, MongoDB, SQL 
 - **Tools:** Git, VS Code, PhpStorm, phpMyAdmin  
 
 ## 🌟 Projects  
